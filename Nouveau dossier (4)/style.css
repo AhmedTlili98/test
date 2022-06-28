@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+#wrap{
+	margin: 0 auto;
+	text-align: center;
+}
+#nheader{
+	background-color: #dfe6e9;
+	padding: 50px;
+
+}
+h1{
+	color: #00b894;
+
+}
+#npap{
+	background-color: #a29bfe;
+	padding: 30px;
+	height: 400px;
+}
+.text_para{
+color: #fab1a0;
+font-size: 60px;
+}
+#footer{
+	background-color: blue;
+}

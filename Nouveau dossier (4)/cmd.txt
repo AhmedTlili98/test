@@ -1,0 +1,8 @@
+shutdown -i=pour coupee le conx a quelqun
+arp -a=pour connait ladress de personne qui conncte avec vous
+ping acebook.com:ya3tik ladress ip mte3 fb 
+NET USER :t5arej assemi les accontes ala fl pc
+net user nom mte3 pc : bch tbadela l mot de passe
+cls =clear
+cd/ cd..
+dir =le milafet ala najem nod5ollha
